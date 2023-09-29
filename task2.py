@@ -1,5 +1,5 @@
 import pickle
-income = 0
+income = 1
 expenses = []
 categories = {}
 
